@@ -78,7 +78,7 @@
 		<platform-bom.version>Cairo-SR4</platform-bom.version>
 		<spring-boot.version>2.0.5.RELEASE</spring-boot.version>
 		<spring-cloud.version>Finchley.SR1</spring-cloud.version>
-        <jaxb.version>2.3.0</jaxb.version>
+        <jaxb.version>2.3.1</jaxb.version>
         <javax.activation.version>1.1.1</javax.activation.version>
         <javassist.version>3.23.1-GA</javassist.version>
 		<!-- Plugins Version -->
